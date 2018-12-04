@@ -1,0 +1,6 @@
+*.sw[op]
+.gradle
+build
+*.jar
+!/gradle/wrapper/gradle-wrapper.jar
+*.class

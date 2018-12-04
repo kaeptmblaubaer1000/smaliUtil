@@ -1,0 +1,6 @@
+gradlew eol=lf
+*.bat eol=crlf
+*.jar binary
+*.kt eol=lf
+*.kts eol=lf
+*.properties eol=lf
